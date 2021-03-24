@@ -4,7 +4,7 @@ Basic background color changer app using Flutter
 
 ## Screenshots
 
-![Screenshot 1](/Screenshots/ss1.png?raw=true "SS1")
+![Screenshot 1](./Screenshots/ss1.png?raw=true "SS1")
 
 ## Getting Started
 
