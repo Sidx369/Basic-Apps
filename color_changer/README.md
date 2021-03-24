@@ -6,6 +6,12 @@ Basic background color changer app using Flutter
 
 ![Screenshot 1](./Screenshots/ss1.png?raw=true "SS1")
 
+![Screenshot 2](./Screenshots/ss2.png?raw=true "SS2")
+
+![Screenshot 3](./Screenshots/ss3.png?raw=true "SS3")
+
+![Screenshot 4](./Screenshots/ss4.png?raw=true "SS4")
+
 ## Getting Started
 
 A few resources to get you started if this is your first Flutter project:
