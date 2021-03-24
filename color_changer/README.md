@@ -5,9 +5,9 @@ Basic background color changer app using Flutter
 ## Screenshots
 
 <p align="center">
-  <img src="./Screenshots/ss1.png" width="350" title="SS1">
+  <img src="./Screenshots/ss1.png" width="350" title="SS1"> 
   <img src="./Screenshots/ss2.png" width="350" title="SS2">
-  <img src="./Screenshots/ss3.png" width="350" title="SS3">
+  <img src="./Screenshots/ss3.png" width="350" title="SS3"> 
   <img src="./Screenshots/ss4.png" width="350" title="SS4">
 </p>
 
