@@ -1,14 +1,12 @@
-# color_changer
+# user_registration
 
-Basic background color changer app using Flutter
+Basic User registration/Signup UI.
+
 
 ## Screenshots
 
 <p align="center">
-  <img src="./Screenshots/ss1.png" width="350" title="SS1"> 
-  <img src="./Screenshots/ss2.png" width="350" title="SS2">
-  <img src="./Screenshots/ss3.png" width="350" title="SS3"> 
-  <img src="./Screenshots/ss4.png" width="350" title="SS4">
+  <img src="./Screenshots/ss1.png" width="400" title="SS1">
 </p>
 
 ## Getting Started
