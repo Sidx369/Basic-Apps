@@ -5,9 +5,9 @@ Anime showcase UI using Flutter
 ## Screenshots
 
 <p>
-  <img src="./Screenshots/ss1.png" width="300" height="600" title="SS1"> 
-  <img src="./Screenshots/ss2.png" width="350" title="SS2">
-  <img src="./Screenshots/ss3.png" width="350" title="SS3"> 
+  <img src="./Screenshots/ss1.png" width="300" height="600" title="SS1">  
+  <img src="./Screenshots/ss2.png" width="300" height="600" title="SS2"> 
+  <img src="./Screenshots/ss3.png" width="300" height="600" title="SS3">  
 </p>
 
 ## Getting Started
