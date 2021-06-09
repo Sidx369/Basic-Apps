@@ -1,6 +1,6 @@
 # user_registration
 
-Basic User registration/Signup UI.
+Basic User registration/Signup UI using Flutter.
 
 
 ## Screenshots
