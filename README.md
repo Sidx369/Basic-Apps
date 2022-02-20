@@ -1,2 +1,2 @@
-# Basic-Apps
-Basic Apps and UI
+# Flutter-Apps
+Flutter Apps
